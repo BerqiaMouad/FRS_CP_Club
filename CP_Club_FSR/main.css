@@ -530,7 +530,7 @@ section{
 }
 
 .contests-history .title::after{
-    content: "Of FSR's teams";
+    content: "Of FSRs' teams";
     position: absolute;
     font-size: 20px;
     left: 50%;
