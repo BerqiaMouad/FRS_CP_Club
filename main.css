@@ -38,6 +38,7 @@ html{
     justify-content: space-between;
 }
 .navbar .logo img{
+    opacity: 0.7;
     width: 150px;
 }
 
